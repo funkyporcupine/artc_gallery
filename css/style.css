@@ -2331,5 +2331,5 @@ input:focus, textarea:focus {
 .copyfooter {
     padding-top: 20px;
     color: #eee;
-    font-size: 13px;
+    font-size: 13px;text-align: right;
 }
