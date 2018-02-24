@@ -1,28 +1,5 @@
-/*
-	Contents:
-	1. Google Fonts Import
-	2. Common Styles
-	3. Sidebar
-	4. Main
-	5. Works Grid
-	6. Index Page
-	7. Project Page
-	8. About Page
-	9. Blog Page
-	10. Blog Single
-	11. Contact Page
-	12. Responsive
-*/
-
-/*
-	1. Google Fonts Import
-*/
 @import 'https://fonts.googleapis.com/css?family=Roboto:300,400';
 @import 'https://fonts.googleapis.com/css?family=Lora:400,400italic';
-
-/*
-	2. Common Styles
-*/
 
 body {
     font-family: 'Roboto', 'Tahoma', 'Arial', sans-serif;
@@ -2347,4 +2324,12 @@ input:focus, textarea:focus {
     #blog-single #main .comments .comments-list .comment.reply {
         margin-left: 35px;
     }
+}
+
+
+
+.copyfooter {
+    padding-top: 20px;
+    color: #eee;
+    font-size: 13px;
 }
